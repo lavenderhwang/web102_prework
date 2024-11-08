@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-<img src='file:///Users/lavenderhwang/Desktop/Codepath_prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Preview of Prework](Codepath_preview.gif)
+<img src='Codepath_preview.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LICECap](https://www.cockos.com/licecap/) for macOS
 
