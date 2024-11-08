@@ -24,7 +24,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 ![Preview of Prework](Codepath_prework.gif)
-<img src='Codepath_preview.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LICECap](https://www.cockos.com/licecap/) for macOS
 
